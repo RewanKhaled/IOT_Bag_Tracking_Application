@@ -42,7 +42,7 @@ The system includes the following pages:
 ---
 
 ## 🛠️ Technology Stack  
-- **IoT Sensors:** GPS, Light Intensity (Virtual Sensors).  
+- **IoT Sensors:** GPS, Light Intensity (Virtual Sensors), Consolidated sensor.  
 - **Frontend:** Web pages with map plugin and form generator.  
 - **Backend:** Virtual sensor data processing and geofencing logic.  
 - **Notifications:** Email alerts for monitored events.  
