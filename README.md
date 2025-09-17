@@ -23,11 +23,7 @@ The system includes the following pages:
 - **Log In** – Secure login for end users using Bag ID and password.  
 - **Mobile Customer Service** – Mobile-friendly version of the customer service page.  
 - **Mobile Historical Locations** – Mobile view for historical tracking.  
-- **Mobile Map** – Mobile-friendly page to show the bag’s current location on a map.  
-
-> **Screenshot Example:**  
-> ![Project Pages](./images/project_pages.png)  
-> *(Put your screenshot in `images/project_pages.png`)*  
+- **Mobile Map** – Mobile-friendly page to show the bag’s current location on a map.
 
 ---
 
@@ -50,3 +46,28 @@ The system includes the following pages:
 ---
 
 ## 📸 Demo Screenshots
+# LogIn Page
+<img width="751" height="449" alt="Loging" src="https://github.com/user-attachments/assets/30347b81-00da-4aa3-9ce2-db17d07c2789" />
+
+# Customer Service Agent Page
+<img width="808" height="439" alt="Customer Service Agent" src="https://github.com/user-attachments/assets/921014f3-c58e-432c-aa21-ae9f2af8e619" />
+
+# Map Tracker Page
+<img width="607" height="427" alt="Map Tracker" src="https://github.com/user-attachments/assets/606a7047-7188-49ee-b430-a10e2dd36fbf" />
+
+# Historical Locations Page
+<img width="938" height="437" alt="Historical Locations" src="https://github.com/user-attachments/assets/c56a3b12-c6d7-44a3-842d-94c535df5ae3" />
+
+# Mobile Customer Service
+![Mobile Customer Service](https://github.com/user-attachments/assets/4b3b3e63-e620-4970-94ca-0f2f0234a24e)
+
+# Mobile Map Tracker Selecting Bag 1
+![Mobile Map Tracker Selecting Bag 1](https://github.com/user-attachments/assets/f50871ca-17b9-4c6e-956a-6bb4a6259a14)
+
+# Mobile Map Tracker Selecting Bag 2
+![Mobile Map Tracker Selecting Bag 2](https://github.com/user-attachments/assets/d891dede-e177-447b-a918-e7a50c0f5287)
+
+# Mobile Historical Locations
+![Mobile Historical Locations](https://github.com/user-attachments/assets/2745174a-2781-4ecb-8392-473869fefaa3)
+
+
