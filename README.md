@@ -70,4 +70,6 @@ The system includes the following pages:
 # Mobile Historical Locations
 ![Mobile Historical Locations](https://github.com/user-attachments/assets/2745174a-2781-4ecb-8392-473869fefaa3)
 
+# Emails
+<img width="960" height="441" alt="Emails" src="https://github.com/user-attachments/assets/8ed012dd-16a1-4f2b-9527-3e51fb70956f" />
 
