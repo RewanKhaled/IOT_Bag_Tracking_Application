@@ -47,8 +47,8 @@ sensorsToCheck.forEach(function(sensorId) {
         const opt = {
             "host": "smtp.gmail.com",
             "port": "587",
-            "username": "rewankhaled219@gmail.com",
-            "password": "urdm szsb ppop jsaz",
+            "username": "@gmail.com",
+            "password": "",
             "to": ownerEmail,
         };
 
@@ -87,4 +87,5 @@ sensorsToCheck.forEach(function(sensorId) {
 
         // Check lux
         if (lux > 10) {
+
             event.log(`Bag ${sensorId} is OPEN 
