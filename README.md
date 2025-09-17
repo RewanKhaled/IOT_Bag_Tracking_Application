@@ -49,19 +49,4 @@ The system includes the following pages:
 
 ---
 
-## 🚀 Getting Started  
-1. Clone this repository.  
-2. Create a folder called `images/` and place your screenshots inside it.  
-3. Deploy the project on your IoT platform (with virtual sensors configured).  
-4. Configure Bag IDs and owners using the **Customer Service Agent** page.  
-5. Use the **Map Last Status** or **Mobile Map** page to track bags in real time.  
-
----
-
-## 📸 Demo Screenshots  
-Add more screenshots here for each page:  
-
-```md
-![Login Page](./images/login_page.png)
-![Map Last Status](./images/map_last_status.png)
-![Historical Locations](./images/historical_locations.png)
+## 📸 Demo Screenshots
